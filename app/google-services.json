@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128483461474",
+    "project_id": "masar-maintenance",
+    "storage_bucket": "masar-maintenance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128483461474:android:d5c16b693e20d78fad443b",
+        "android_client_info": {
+          "package_name": "com.masar.maintenance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzzq2CPpl6w9xCJpCCfDpTrjxTWiFqHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
